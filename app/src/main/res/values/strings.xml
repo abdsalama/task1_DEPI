@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="meme_app">Meme App</string>
+    <string name="first_meme_image">First Meme Image</string>
+    <string name="second_meme_image">Second Meme Image</string>
+    <string name="name_abdo_eltahrany_nage_21">Name: Abdo Eltahrany\nAge: 21</string>
+    <string name="name_abdo_eltahrany">Name: Abdo Eltahrany</string>
+    <string name="age_20">Age: 20</string>
+</resources>
